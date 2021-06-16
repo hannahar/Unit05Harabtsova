@@ -3,7 +3,9 @@ package lt.lhu.unit05.main;
 public class Task02 {
 
 	public static void main(String[] args) {
-		int a, b, c;
+		int a;
+		int b;
+		int c;
 		a = 110;
 		b = 110; 
 		c = 12;
